@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Market",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -859,7 +859,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Step 2",
-          "text": "<p>Getting the CryptoCat</p><p>Thank you for your purchase!\n</p><p>\n</p><p>The price of the selected Cat 5.232 ETH.</p><p>\n</p><p>Please send 5.232 ETH to the following address to finalize your purchase:\n</p><p>\n</p><p>0x14a868f3136cDE6F0e69a3E7078dE14E951d5F2E</p><p>You have 2 hours to do this transaction. If no payment is made within this time period, the cat becomes buyable again.</p>",
+          "text": "<p>Getting the CryptoCat</p><p>Thank you for your purchase!\n</p><p>\n</p><p>The price of the selected Cat 5.232 ETH.</p><p>\n</p><p>Please send 5.232 ETH to the following address to finalize your purchase:\n</p><p>\n</p><p>0xcd58afe1fbc6d11f7153c8c254f676d211cd397f</p><p>You have 2 hours to do this transaction. If no payment is made within this time period, the cat becomes buyable again.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1267,7 +1267,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Step 2",
-          "text": "<p>Getting the CryptoCat</p><p>Thank you for your purchase!\n</p><p>\n</p><p>The price of the selected Cat is 0.150 ETH.</p><p>\n</p><p>Please send 0.150 ETH to the following address to finalize your purchase:\n</p><p>\n</p><p>0x14a868f3136cDE6F0e69a3E7078dE14E951d5F2E</p><p>You have 2 hours to do this transaction. If no payment is made within this time period, the cat becomes buyable again.</p>",
+          "text": "<p>Getting the CryptoCat</p><p>Thank you for your purchase!\n</p><p>\n</p><p>The price of the selected Cat is 0.150 ETH.</p><p>\n</p><p>Please send 0.150 ETH to the following address to finalize your purchase:\n</p><p>\n</p><p>0xcd58afe1fbc6d11f7153c8c254f676d211cd397f</p><p>You have 2 hours to do this transaction. If no payment is made within this time period, the cat becomes buyable again.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
